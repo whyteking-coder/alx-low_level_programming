@@ -5,6 +5,7 @@
  * _print_rev_recursion - print a string in reverse
  * _putchar - function to write character to stdout
  * @s: the string to be printed
+ * Return: success (0)
  */
 
 int _putchar(char s);
